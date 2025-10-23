@@ -1,10 +1,3 @@
-
-Ah! Got it — your project now **includes a backend** as well (Node.js), so we need the README to reflect the **full-stack structure**: frontend + backend, like GEMDOC AI, but for **My Wire App**.
-
-Here’s the updated **professional README** including your backend:
-
----
-
 # 📦 My Wire App – Full-Stack Wire Product App
 
 **My Wire App** is a **React Native + Node.js** application for browsing wire products, viewing product details, managing a cart, and optionally connecting to a backend API.
