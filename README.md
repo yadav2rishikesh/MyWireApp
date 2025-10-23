@@ -61,7 +61,7 @@ MyWireApp/
 
 ## 🖼 Demo :- 
 
-demo/demo.gif/MyWireApp.gif
+![MyWireApp](https://github.com/user-attachments/assets/dd4db05c-ea58-49cf-85d7-c6662e6ac00d)
 
 
 
