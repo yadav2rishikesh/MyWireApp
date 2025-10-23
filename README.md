@@ -141,7 +141,7 @@ npx react-native run-android
 
 ## 👨‍💻 Author
 
-**Rishikesh Yadav** – Startup-focused developer | React Native & Full-Stack Enthusiast
+Rishikesh Yadav 🚀 Startup-focused developer | AI & Cloud Enthusiast
 🔗 [GitHub Profile](https://github.com/your-github-link)
 
 ---
