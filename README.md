@@ -1,6 +1,6 @@
 # 📦 My Wire App – Full-Stack Wire Product App
+**My Wire App** is a smart mobile application for managing wire products. Users can browse products, add them to a cart, and manage their account. The app is built with **React Native**, supports a backend with **Node.js/Express**, and demonstrates a full-stack mobile solution.
 
-**My Wire App** is a **React Native + Node.js** application for browsing wire products, viewing product details, managing a cart, and optionally connecting to a backend API.
 
 ---
 
